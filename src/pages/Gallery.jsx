@@ -1,9 +1,9 @@
 function Gallery() {
   const images = [
-    "/public/IMG_5315.PNG",
-    "/public/IMG_5576.PNG",
-    "/public/IMG_5162.PNG",
-    "/public/IMG_4738.PNG",
+    "/IMG_5315.PNG",
+    "/IMG_5576.PNG",
+    "/IMG_5162.PNG",
+    "/IMG_4738.PNG",
   ];
 
   return (
